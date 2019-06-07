@@ -1,1 +1,1 @@
-# Payloads
+# Payloads for Burp Intruder
